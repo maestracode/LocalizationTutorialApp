@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationTutorialApp
+
+  Created by omaestra on 12/02/2019.
+  Copyright © 2019 maestracode. All rights reserved.
+*/
+
+"Hello world" = "Hola mundo";
+"this.is.awesome" = "¡Esto es genial!";
